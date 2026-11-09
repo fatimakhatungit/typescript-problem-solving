@@ -31,6 +31,9 @@ typescript-problem-solving/
 
 1. What are the core differences between type aliases and interface in TypeScript? When should you choose one over the other?
 2. How does TypeScript's type hierarchy work with any, unknown, and never? Why is unknown always preferred over any? 
+1. [Type Alias vs Interface in TypeScript](./blog-1-type-alias-vs-interface.md)
+2. [Understanding any, unknown, and never in TypeScript](./blog-2-any-unknown-never.md)
+
 
 ## Technologies
 
